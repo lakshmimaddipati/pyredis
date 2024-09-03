@@ -1,2 +1,2 @@
 # pyredis
-a Python version of Redis Server
+Custom Redis Server using Python
